@@ -1,7 +1,8 @@
-## Console.WriteLine("Hello World")🤖
+## Console.WriteLine("Hello World"); 🤖
 Oi, tudo bem? meu nome é Davi! sou apaixonado por tecnologia e games.
 Desde sempre "respirei" algoritmos e agora estou implementando algoritmos para que outros possam
 usufruir das minhas soluções.
+![—Pngtree—future technology cloud technology big_7178436](https://user-images.githubusercontent.com/80583799/201688327-f3342498-bf7e-49e0-acb1-b0acc4a1b598.png)
 
 <!--
 **daviwendemberg/daviwendemberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
