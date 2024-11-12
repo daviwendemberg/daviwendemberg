@@ -2,7 +2,8 @@
 Oi, tudo bem? meu nome é Davi! sou apaixonado por tecnologia e games.
 Desde sempre "respirei" algoritmos e agora estou implementando algoritmos para que outros possam
 usufruir das minhas soluções.
-![201688327-f3342498-bf7e-49e0-acb1-b0acc4a1b598](https://github.com/user-attachments/assets/995fd98d-3433-44c2-95c3-95b1646611e5)
+![menina dbs](https://github.com/user-attachments/assets/eef6a833-0696-4454-8788-135e4ecb1c17)
+
 <!--
 **daviwendemberg/daviwendemberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
